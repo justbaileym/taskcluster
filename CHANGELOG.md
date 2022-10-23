@@ -30,7 +30,7 @@ Upgrade many deps with the following command:
 `pmac add 5692 5691 5690 5689 5688 5687`
 
 ▶ [patch]
-Upgrades to latest Node version, v16.17.1, which is a security release.
+Upgrades to latest Node version, v18.11.0, which is a security release.
 
 ### USERS
 
